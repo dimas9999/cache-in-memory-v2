@@ -1,4 +1,4 @@
-package cacheinmemory_v2
+package cacheinmemoryv2
 
 import (
 	"sync"
